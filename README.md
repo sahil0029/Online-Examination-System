@@ -1,4 +1,4 @@
-# Online Examination System 
+# Online Examination System DBMS Mini Project 18CSC303J Guided by : Mr. N.A.S Vinoth 
 
 <b>Technology Used:</b>
 
@@ -13,6 +13,12 @@ examinations are given online. either through the internet or intranet using com
 system. The main goal of this online examination system is to effectively evaluate the
 student thoroughly through a totally automated system that not only reduce the required
 time but also obtain fast and accurate results.
+
+## Team Members:
+
+1. Rishabh Singh Sahil RA2011003011334
+2. Ahishek Verma RA2011003011341
+4. Nikhil Kar RA2011003011346
 
 Functional Specification:
 
